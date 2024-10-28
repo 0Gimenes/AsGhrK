@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img align="left" height="100" src="https://cdn.discordapp.com/avatars/512839551807651864/a4383d2bd8ebe3bc4ca33a1bc33570e9.webp?size=80"  />
+<img align="left" height="200" src="https://cdn.discordapp.com/avatars/512839551807651864/a4383d2bd8ebe3bc4ca33a1bc33570e9.webp?size=80"  />
 
 ###
 
