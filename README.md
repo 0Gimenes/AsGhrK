@@ -56,7 +56,9 @@
   <a href="https://www.linkedin.com/in/davi-casari-78516732b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   </a>
+  <a href="https://discord.com/users/512839551807651864" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
+  </a>
   <a href="https://www.youtube.com/channel/UC87nHRUND7nD8KF0gHJHstw" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="50" alt="youtube logo"  />
   </a>
